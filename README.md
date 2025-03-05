@@ -6,4 +6,4 @@ Otfried Cheong's extensible drawing editor ipe, https://ipe.otfried.org/. In add
 
 Alternatively, the name of an XML-file created by ipe can be given as a parameter on the command-line, and then the program reads points from that file. This feature is currently only rudimentary and not fool-proof.
 
-The algorithm is described in the paper "Minimum spanning blob-trees" by Katharina Klost, Marc van Kreveld, Daniel Perz, Günter Rote, and Josef Tkadlec.
+The algorithm is described in the paper "Minimum spanning blob-trees" by Katharina Klost, Marc van Kreveld, Daniel Perz, Günter Rote, and Josef Tkadlec, https://arxiv.org/abs/2503.02439, to appear at the 41st European Workshop on Computational Geometry, Liblice, Czech republic, April 9–11, 2025 (EuroCG’25).
